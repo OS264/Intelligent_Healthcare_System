@@ -1,4 +1,5 @@
 🏥 HealthAI Assistant: Intelligent Health Management Platform
+
 ✨ Project Overview
 HealthAI Assistant is a full-stack AI-powered health management system built with Flask and Python. It streamlines the early patient-care process by integrating Machine Learning, OCR-based report analysis, chatbot assistance, and automated teleconsultation workflows into one intelligent platform.
 The system demonstrates strong full-stack engineering, healthcare domain understanding, and end-to-end AI integration.
