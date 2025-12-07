@@ -1,7 +1,9 @@
 🏥 HealthAI Assistant: Intelligent Health Management Platform
+
 ✨ Project Overview
 The HealthAI Assistant is a comprehensive, full-stack application built with Flask and Python that aims to revolutionize the initial patient journey. It integrates complex features Machine Learning, Optical Character Recognition (OCR), and external APIs to provide users with immediate, intelligent health assessments and a seamless path to specialist care.
 This project demonstrates strong full-stack proficiency, complex system integration, and responsible use of AI in a sensitive domain.
+
 🚀 Core Features & Functionality
 1. Symptom-Based Disease Triage (ML Model)
 •	Prediction: Utilizes a pre-trained Random Forest model to accurately predict a probable disease based on up to five user-input symptoms.
@@ -18,6 +20,7 @@ This project demonstrates strong full-stack proficiency, complex system integrat
 •	Appointment Confirmation: Generates a unique Google Meet link and sends the final booking details, including the virtual meeting link, directly to the patient's email via SMTP/Gmail.
 5. Utilities
 •	Hospital Finder: Integrates with the Overpass API (OpenStreetMap) to display nearby hospital locations based on user coordinates.
+
 🛠️ Technology Stack
 •  Backend: Python, Flask
 •  Machine Learning: Scikit-learn, Pandas, NumPy
