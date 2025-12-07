@@ -41,7 +41,9 @@ This is an educational and demonstration project.
 The predictions and health suggestions must not replace professional medical advice. Always consult a licensed doctor.
 
 📬 Want to Buy This Complete Project?
+
 Get the full source code, PPT, project report, documentation.
+
 Contact:
 📧 shaikhomar264@gmail.com
 
