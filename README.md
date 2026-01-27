@@ -132,6 +132,16 @@ Designed a **complete business logic loop**:
 ---
 
 ## 👥 Contributors
+### 👤 Omar Shaikh  
+**Role:** AI Engineer & Full Stack Developer  
+- Multimodal AI and API Integration 
+- Agentic Workflow Design   
+- Chatbot Integration  
+- Medical Report Analyzer Design   
+- Backend & full-stack orchestration 
+
+📧 Email: shaikhomar264@gmail.com
+🌐 GitHub: https://github.com/OS264
 
 ### 👤 Shoheb Amjad Attar  
 **Role:** AI Engineer & System Architect  
