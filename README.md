@@ -1,5 +1,4 @@
-# 🏥 HealthAI Assistant  
-### Intelligent Multimodal Health Management Platform
+# 🏥 HealthCare AI - Your AI-Powered Health Assistant  https://www.loom.com/share/49cba8d0ff524b8bab0c62324a7b1d6a
 
 HealthAI Assistant is a **full-stack, AI-powered healthcare ecosystem** designed to streamline early-stage patient care by combining **multimodal AI, predictive diagnostics, geospatial intelligence, and automated teleconsultation workflows** into a single production-grade platform.
 
